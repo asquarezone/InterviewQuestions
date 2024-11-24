@@ -1,4 +1,4 @@
-Interview questions LTIM company
+Interview questions AWS:
 
 1. What is AWS?
 2. What is IAM and its purpose?
