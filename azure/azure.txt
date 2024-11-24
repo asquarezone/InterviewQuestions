@@ -1,0 +1,2 @@
+What are Azure Resource Groups, and why are they important?
+Explain the difference between Azure Blob Storage and Azure Disk Storage.
