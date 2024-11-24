@@ -1,0 +1,2 @@
+How do you check disk usage on a Linux server?
+Explain how you would troubleshoot a network issue on a Linux server.
