@@ -1,4 +1,4 @@
-# Avanced Kubernetes Interview Questions for Freshers from Geeksforgeeks
+# Avanced Kubernetes Interview Questions for Freshers
 
 1. Explain Kubernetes Architecture.
 2. Explain the concept of Container Orchestration.
