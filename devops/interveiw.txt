@@ -1,0 +1,2 @@
+What is Devops
+Devops is a methodology process for CI/CD Pipeline
