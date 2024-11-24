@@ -10,3 +10,4 @@
 * Discuss the components that make up a cluster and their interactions.
 * What is the purpose of a Service in Kubernetes?
 * Explain how Services facilitate communication between Pods.
+* What is the difference between ClusterIP, NodePort, and LoadBalancer services?
