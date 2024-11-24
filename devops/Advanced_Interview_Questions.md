@@ -57,7 +57,7 @@ Immutable infrastructure is a paradigm where servers and components are never mo
 
 Benefits include easier deployment, improved scalability, and better fault tolerance. Drawbacks may include initial setup complexity and challenges in managing stateful applications.
 
-0. Explain the concept of serverless computing and its implications for DevOps practices.
+10. Explain the concept of serverless computing and its implications for DevOps practices.
 Serverless computing is a cloud computing model where the cloud provider dynamically manages the allocation and provisioning of servers. Users only pay for the actual resources consumed by their applications, without worrying about server management.
 
 This model simplifies infrastructure management, allowing developers to focus solely on writing code. For DevOps, serverless reduces the overhead of managing servers, enabling faster development cycles and easier deployment, while emphasizing automation and monitoring for efficient resource utilization.
