@@ -1,20 +1,33 @@
-* What is Linux?
-Discuss the basics of Linux as an open-source operating system, its kernel, and its advantages over other operating systems.
-* How do you check disk space usage on a Linux system?
-Explain using commands like df -h to display disk space in a human-readable format and du -sh * to check the size of specific directories.
-* What is the purpose of the /etc/fstab file?
-Describe how this file is used to define how disk partitions, devices, and remote filesystems are mounted into the filesystem.
-* How can you list all running processes on a Linux system?
-Mention using commands such as ps aux or top to view active processes and their resource usage.
-* What command would you use to find a specific pattern in a log file?
-Discuss using grep, for example: grep "error" /var/log/syslog, to search for specific text within files.
-* How do you create a new user and grant them sudo privileges?
-Explain the steps involving adduser username, followed by adding the user to the sudo group using usermod -aG sudo username.
-* What is swap space, and when is it used?
-Define swap space as an area on the disk used when RAM is full, helping to manage memory more effectively.
-* How do you restart a service in Linux?
-Describe using commands like systemctl restart servicename for systems using systemd or /etc/init.d/servicename restart for SysVinit systems.
-* What is a kernel panic, and how would you troubleshoot it?
-Explain that a kernel panic is a safety measure taken by an operating system upon detecting an internal fatal error. Discuss checking logs and boot parameters as troubleshooting steps.
-* How do you monitor network connections in Linux?
-Mention tools like netstat, ss, or iftop to view active network connections and their states.
+What is Linux?
+Linux is a Unix-like, open-source operating system created by Linus Torvalds in 1991. It is designed to manage hardware resources and provide a stable environment for applications. Its features include being free, secure, and customizable.
+
+What are the basic components of Linux?
+The main components include:
+Kernel: The core part that manages system resources.
+Shell: The user interface for command execution.
+File System: Manages how data is stored and retrieved.
+System Utilities: Tools for managing system operations and applications.
+
+What is the difference between UNIX and Linux?
+UNIX is a proprietary operating system developed in the 1970s, while Linux is an open-source alternative that offers similar functionalities but is free to use and modify.
+
+What is LILO?
+LILO stands for Linux Loader, which is a boot loader used to load the Linux operating system into memory during the startup process. It has been largely replaced by GRUB (Grand Unified Bootloader) due to its advanced features45.
+
+Is it legal to edit the Linux Kernel?
+Yes, it is legal to edit the Linux Kernel because it is released under the General Public License (GPL), which allows users to modify and distribute the software freely.
+Explain file permissions in Linux.
+There are three types of file permissions:
+Read (r): Allows users to view the contents of a file.
+Write (w): Allows users to modify or delete a file.
+Execute (x): Allows users to run a file as a program.
+
+What are some advantages of using Linux?
+Advantages include:
+Free and open-source availability.
+High security through user authentication and access control.
+Stability and reliability for long-running processes.
+Support for multiple programming languages and applications.
+
+What is BASH?
+BASH (Bourne Again SHell) is a command processor that allows users to interact with the operating system through commands. It serves as both an interactive shell and a scripting language
