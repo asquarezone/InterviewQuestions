@@ -1,0 +1,7 @@
+Questions:-
+
+How do you revert a commit that has already been pushed?
+How do you handle conflicts when merging branches in Git
+Can you explain the difference between Git rebase and Git merge
+What are some best practices for writing effective commit messages
+How do you set up a Git hook for code validation
