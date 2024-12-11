@@ -1,0 +1,3 @@
+What Is An EC2 Instance And How Does It Work?
+
+An EC2 instance stands for Elastic Cloud Compute service, It is a virtual server in the cloud. When we launch this, it will run the selected operating system with a specified application stack. For instance, you can deploy a web server or a database in this EC2 service. It can also be configured for specific computing needs, making it a flexible and scalable solution.
